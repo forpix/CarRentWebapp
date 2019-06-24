@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car rent Java EE web application
 
 ## Table of contents
@@ -147,3 +148,6 @@ Note: target directory creation covered in [Application building](#compile)
 Для того, чтобы войти под администратором, используйте логин admin@mail.com и пароль admin1.
 Чтобы войти под пользователем, логин client@mail.com и пароль client.
 
+=======
+# CarRentWebapp
+>>>>>>> ff5b7cc961af1ce92ff5cf16b5db38647ab2acd7
